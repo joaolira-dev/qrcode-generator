@@ -28,9 +28,9 @@ cd qr-code-generator
 3 -  Abra o arquivo index.html no seu computador
 
 📋 Como Usar
-1 - Insira o texto ou a URL que deseja converter em QR Code.
-2 - Clique no botão "Gerar QR Code".
-3 - O QR Code será exibido na tela.
+1 - Insira o texto ou a URL que deseja converter em QR Code.<br/>
+2 - Clique no botão "Gerar QR Code".<br/>
+3 - O QR Code será exibido na tela.<br/><br/>
 
 
 ![Imagem do Gerador](assets/screenshot.png)
