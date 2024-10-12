@@ -2,14 +2,14 @@ QR Code Generator
 Este é um projeto simples de gerador de QR Code desenvolvido com HTML, CSS e JavaScript. A aplicação permite que o usuário insira um texto ou URL e, com um clique, gere o QR Code correspondente utilizando uma API.
 
 🚀 Funcionalidades
-Geração de QR Code a partir de texto ou URL
-Interface intuitiva e fácil de usar
-Responsividade para diferentes tamanhos de tela
-🛠️ Tecnologias Utilizadas
-HTML5: Estruturação do conteúdo da página
-CSS3: Estilização da interface com design simples e responsivo
-JavaScript: Manipulação de dados e integração com a API para gerar o QR Code
-API de QR Code: Geração dinâmica de QR Codes
+Geração de QR Code a partir de texto ou URL<br/>
+Interface intuitiva e fácil de usar<br/>
+Responsividade para diferentes tamanhos de tela<br/>
+🛠️ Tecnologias Utilizadas<br/>
+HTML5: Estruturação do conteúdo da página<br/>
+CSS3: Estilização da interface com design simples e responsivo<br/>
+JavaScript: Manipulação de dados e integração com a API para gerar o QR Code<br/>
+API de QR Code: Geração dinâmica de QR Codes<br/>
 
 🔗 Demonstração
 Você pode testar a aplicação diretamente através deste link:
