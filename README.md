@@ -33,5 +33,6 @@ cd qr-code-generator
 3 - O QR Code será exibido na tela.
 
 
-(assets/screenshot.png)
+![Descrição da imagem](caminho/para/a/imagem.png)
+
 
